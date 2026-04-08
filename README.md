@@ -63,7 +63,7 @@ You'll work with just these areas:
 
 ## Instructions
 
-Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+Follow the [step-by-step workflow guide](https://jugurthakacimi.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
 
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
@@ -108,7 +108,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-05-drift-detection
+git clone https://github.com/jugurthakacimi/cintel-05-drift-detection
 
 cd cintel-05-drift-detection
 code .
