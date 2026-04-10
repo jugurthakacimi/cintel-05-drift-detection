@@ -142,3 +142,7 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+
+# Technical Modification
+The code was modified to change the dataset from "case" to "jugurtha". This involved updating file paths and names in the `jugurtha_drift_detector.py` file, as well as updating the corresponding artifact file `current_metrics_jugurtha.csv` with new values. The changes reflect a shift in focus to a different dataset while maintaining the structure of the drift detection analysis. The new values introduced in the `current_metrics_jugurtha.csv` file indicate changes in average requests, errors, and latency, which are essential for correcting the drift in the system's behavior.
